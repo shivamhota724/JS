@@ -1,0 +1,20 @@
+{
+  "name": "shivam",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/shivamhota724/JS#readme",
+  "bugs": {
+    "url": "https://github.com/shivamhota724/JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamhota724/JS.git"
+  },
+  "license": "ISC",
+  "author": "shivam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
